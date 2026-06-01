@@ -1,4 +1,4 @@
-package com.etoak.handler;
+package com.etoak.common.web.handler;
 
 import com.etoak.common.exception.ParamException;
 import com.etoak.common.vo.ResultVO;
