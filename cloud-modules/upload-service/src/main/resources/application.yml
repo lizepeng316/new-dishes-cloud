@@ -1,20 +1,19 @@
 server:
-  port: 9001
+  port: 9002
 
 spring:
   application:
-    # 服务名称
-    name: dishes-service
+    name: upload-service
 
   config:
-    # Data ID：dishes-service.yml
+    # Data ID:upload-service.yml
     import: nacos:${spring.application.name}.yml
 
   cloud:
     nacos:
       server-addr: 127.0.0.1:8848
       discovery:
-        # 命名空间 ID 的值
         namespace: et2512
+
       config:
         namespace: et2512

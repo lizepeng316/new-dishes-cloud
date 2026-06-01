@@ -7,10 +7,12 @@
     <file url="file://$PROJECT_DIR$/cloud-common/common-web/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-model/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-modules/dishes-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-modules/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-modules/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-modules/upload-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
