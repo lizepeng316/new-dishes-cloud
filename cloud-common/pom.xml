@@ -16,6 +16,7 @@
         <module>common-redis</module>
         <module>common-jwt</module>
         <module>common-web</module>
+        <module>common-pagehelper</module>
     </modules>
 
 </project>
