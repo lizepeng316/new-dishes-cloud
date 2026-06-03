@@ -19,6 +19,11 @@
 
         <dependency>
             <groupId>com.etoak.et2512.dishes</groupId>
+            <artifactId>common-redis</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.etoak.et2512.dishes</groupId>
             <artifactId>common-pagehelper</artifactId>
         </dependency>
 
